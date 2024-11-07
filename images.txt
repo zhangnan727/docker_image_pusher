@@ -1,1 +1,1 @@
-gojue/ecapture:latest
+huginn/huginn:latest
