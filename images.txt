@@ -1,1 +1,3 @@
-huginn/huginn:latest
+mysql:5.7
+openjdk:8u342
+nginx-1.26
