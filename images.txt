@@ -1,1 +1,1 @@
-percona/pmm-server:3.0.0
+mysql:8.4.4
