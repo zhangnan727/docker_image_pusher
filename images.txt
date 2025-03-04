@@ -1,1 +1,1 @@
-mysql:8.4.4
+feiyu563/prometheus-alert:latest
