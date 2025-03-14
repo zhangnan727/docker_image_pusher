@@ -1,1 +1,1 @@
-feiyu563/prometheus-alert:latest
+gcr.io/cadvisor/cadvisor:v0.52.1
