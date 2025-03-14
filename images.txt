@@ -1,1 +1,1 @@
-quay.io/prometheus/node-exporter:v1.9.0
+prom/prometheus:3.2.1
