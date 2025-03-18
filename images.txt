@@ -1,1 +1,1 @@
-tomcat:9.0.102-jdk17-corretto
+quay.io/metallb/speaker:main
