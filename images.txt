@@ -1,1 +1,1 @@
-registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.5.0
+tomcat:9.0.102-jdk17-corretto
