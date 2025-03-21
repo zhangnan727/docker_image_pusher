@@ -1,1 +1,3 @@
-quay.io/metallb/speaker:main
+docker.io/cairry/watchalert:latest
+docker.io/cairry/watchalert-web:latest
+redis:latest
