@@ -1,2 +1,1 @@
-eclipse-temurin:8-jre-alpine
-eclipse-temurin:17-jre-alpine
+debian:bookworm
