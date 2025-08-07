@@ -1,1 +1,1 @@
-debian:bookworm
+stirlingpdf/stirling-pdf
