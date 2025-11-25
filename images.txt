@@ -1,1 +1,1 @@
-zookeeper
+ghcr.io/666ghj/bettafish:latest
