@@ -1,1 +1,1 @@
-ghcr.io/666ghj/bettafish:latest
+mysql:8.4.7
