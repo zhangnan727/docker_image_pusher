@@ -1,1 +1,2 @@
-rabbitmq:4.2.3-management
+ghcr.io/666ghj/bettafish:latest
+postgres:15
