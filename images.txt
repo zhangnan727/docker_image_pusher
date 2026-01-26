@@ -1,2 +1,1 @@
-ghcr.io/666ghj/bettafish:latest
 postgres:15
