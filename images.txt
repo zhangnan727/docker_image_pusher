@@ -1,1 +1,1 @@
-rabbitmq:4.2-management
+databasus/databasus:3.5.0
