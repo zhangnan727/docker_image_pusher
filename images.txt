@@ -1,1 +1,1 @@
-postgres:15
+rabbitmq:4.2-management
