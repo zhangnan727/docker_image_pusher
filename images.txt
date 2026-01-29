@@ -1,1 +1,1 @@
-databasus/databasus:v3.5.0
+oceanbase/ocp-ce:4.3.5
