@@ -1,1 +1,1 @@
-oceanbase/ocp-ce:4.3.5
+oceanbase/oceanbase-ce:4.3.5-lts
