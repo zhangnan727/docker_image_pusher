@@ -1,2 +1,5 @@
-apache/doris:fe-4.0.2
-apache/doris:be-4.0.2
+us-central1-docker.pkg.dev/keephq/keep/keep-ui
+us-central1-docker.pkg.dev/keephq/keep/keep-api
+grafana/grafana:latest
+prom/prometheus:latest
+quay.io/soketi/soketi:1.4-16-debian
