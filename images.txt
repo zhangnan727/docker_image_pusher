@@ -1,1 +1,1 @@
-percona/percona-xtrabackup:8.4.0-5.1
+jenkins/jenkins:2.547
