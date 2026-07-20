@@ -1,1 +1,1 @@
---platform linux/arm64 jertel/elastalert2:latest
+jertel/elastalert2:latest
