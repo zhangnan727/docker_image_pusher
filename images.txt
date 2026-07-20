@@ -1,1 +1,1 @@
-redis:8.8.0-trixie
+--platform=linux/arm docker jertel/elastalert2:latest
