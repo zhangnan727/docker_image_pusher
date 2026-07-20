@@ -1,1 +1,1 @@
---platform linux/arm64 jenkins/jenkins:2.547
+--platform linux/arm64 jertel/elastalert2:latest
