@@ -1,1 +1,1 @@
---platform=linux/arm docker jertel/elastalert2:latest
+--platform linux/arm64 jertel/elastalert2:latest
