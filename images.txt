@@ -1,1 +1,1 @@
-jertel/elastalert2:latest
+redis
