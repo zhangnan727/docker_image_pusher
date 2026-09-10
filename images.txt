@@ -1,1 +1,1 @@
-jertel/elastalert2:latest
+ubuntu:22.04
