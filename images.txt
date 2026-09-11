@@ -1,1 +1,1 @@
- --platform=linux/arm64 ubuntu:22.04
+eclipse-temurin:17-jre-alpine
