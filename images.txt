@@ -1,1 +1,2 @@
-operator:v1.36.16
+mongo:latest
+wechat-spider:latest
