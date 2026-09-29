@@ -1,2 +1,1 @@
-rustfs/rc:latest
-rustfs/rustfs:1.0.0
+operator:v1.36.16
