@@ -1,1 +1,2 @@
---platform=linux/arm64 mysql:8.4.13
+##--platform=linux/arm64 mysql:8.4.13
+redis:8.2.11
